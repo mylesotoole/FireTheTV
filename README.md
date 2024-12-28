@@ -7,7 +7,7 @@
 
 - This script utilizes [Homebrew](https://brew.sh/) and [Android Platform Tools](https://developer.android.com/tools/releases/platform-tools) for macOS.
   - Dependencies are checked automatically. If they are not present, this script will install them.
-    - **Permission** is required to install Homebrew.
+    - Permission is required to install [Homebrew](https://brew.sh/).
 - ADB debugging must be enabled on your Fire TV, which is a developer setting.
 
 ## How to Run It:
